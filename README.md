@@ -1,10 +1,6 @@
 # hello-world.
 Projeto Inicial
-```
-{
-  "firstName": "lucas",
+{"firstName": "lucas",
   "lastName": "avila",
-  "age": 28
-}
-```
+  "age": 28}
 ~~I'm not fat~~ = I'm thin
