@@ -7,3 +7,4 @@ Projeto Inicial
   "age": 28
 }
 ```
+~~I'm not fat~~ = I'm thin
